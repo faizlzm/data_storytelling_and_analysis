@@ -11,8 +11,6 @@ Analisis data transaksi ritel Superstore dengan Python dan Tableau untuk mengide
 - [Metodologi](#metodologi)
 - [Temuan Utama](#temuan-utama)
 - [Kesimpulan dan Rekomendasi](#kesimpulan-dan-rekomendasi)
-- [Keterbatasan](#keterbatasan)
-- [Cara Menjalankan](#cara-menjalankan)
 - [Penulis](#penulis)
 
 ---
