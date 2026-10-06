@@ -90,8 +90,6 @@ Analisis dilakukan di Tableau (`dashboard/`) dengan tampilan per segmen (Consume
 
 ## Temuan Utama
 
-> Angka diambil dari laporan PDF dan dicocokkan ulang dengan `data/sample_superstore.csv`.
-
 ### 1. Consumer adalah mesin volume, B2B menahan kapital padat
 
 | Segmen | Total Sales | Porsi Sales | Jumlah pelanggan |
